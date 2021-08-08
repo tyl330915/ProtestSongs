@@ -1388,7 +1388,7 @@ const songs = [{
         "_id": "60eeed5c0a0fac1c253cbf4d",
         "title": "Yankee Doodle Dandy",
         "artist": "Unknown",
-        "year": "1771",
+        "year": "1770",
         "theme": "War/1776",
         "lyricsURL": "https://en.wikipedia.org/wiki/Yankee_Doodle",
         "videoURL": "https://youtu.be/N8wxb-wwQnA",
