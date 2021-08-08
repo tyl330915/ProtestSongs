@@ -2,7 +2,7 @@ const songs = [{
         "_id": "60ed8d670a0fac1c253cbf46",
         "title": "Run Mary Run",
         "artist": "Unknown",
-        "year": "1801",
+        "year": "1800",
         "theme": "Race",
         "lyricsURL": "https://www.negrospirituals.com/songs/run_mary_run.htm",
         "videoURL": "https://vimeo.com/61112888",
