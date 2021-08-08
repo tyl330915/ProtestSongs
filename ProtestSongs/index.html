@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/vuetify@2.2.0/dist/vuetify.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.x"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuex@3.2.0/dist/vuex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vuetify@2.3.0/dist/vuetify.js"></script>
+    <script src="./json/songData.js" type="text/javascript"></script>
+    <link href="./css/all.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <div id="app">
+        <v-app>
+            <img src="./assets/longprotest.jpg" alt="Banner" style="width:100%; height: 80px">
+            <div class="top-left" style="color: white"> Protest Songs </div>
+            <div class="container">
+
+                <v-card>
+
+                    <v-card-title>
+                        The Protest Song List:
+                        <v-spacer></v-spacer>
+                        <v-text-field v-model="search" append-icon="mdi-magnify" label="Search" single-line hide-details></v-text-field>
+                    </v-card-title>
+                    <v-data-table :headers="headers" :items="songs" :search="search" :items-per-page="20" :sort-by.sync="sortBy" :sort-desc.sync="sortDesc" dense @click:row="handleClick($event)">
+
+                        <!--template v-slot:[`item.lyricsURL`]="{ value }">
+                        <a v-if=value v-bind:href="value"> Lyrics </a>
+                    </template>
+
+                        <template v-slot:[`item.videoURL`]="{ value }">
+                        <a v-if=value v-bind:href="value"> Video </a>
+                    </template>
+
+                        <template v-slot:[`item.notesURL`]="{ value }">
+                        <span v-html="value"></span>
+                    </template-->
+                    </v-data-table>
+
+                </v-card>
+
+
+
+
+            </div>
+
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+
+                <!-- Modal content -->
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <div id="bannerDiv">
+                        <div id="modalTitle">{{ this.chosenItem.title }} </div>
+                    </div>
+
+                    <div id="modalImage" style="text-align: center; margin-bottom: 30px"></div>
+
+                    <p id="modalArtist">Artist: <b>{{ this.chosenItem.artist }} </b> </p>
+                    <p id="modalYear">Year: <b>{{ this.chosenItem.year }} </b></p>
+                    <p id="modalTheme">Theme: <b> {{ this.chosenItem.theme }} </b></p>
+                    <v-btn color="gray" dark id="modalVideo">Video</v-btn>
+                    <v-btn color="gray" dark id="modalLyrics" v-slot:[`this.chosenItem.lyricsURL`]="{ value }"><span v-if=value v-bind:href="value"> Lyrics </span></v-btn>
+
+
+
+                    <p id="modalNotes"></p>
+
+                    </p>
+
+                </div>
+                <!--modal content-->
+            </div>
+            <!--modal div-->
+        </v-app>
+</body>
+<script>
+    function linkToOtherWindow(url) {
+        window.open(url, '_blank')
+    };
+
+
+    const myueApp = new Vue({
+        el: "#app",
+        vuetify: new Vuetify(),
+        data() {
+            return {
+                headers: [{
+                    text: 'Title',
+                    align: 'start',
+                    sortable: true,
+                    value: 'title',
+                }, {
+                    text: 'Artist',
+                    value: 'artist'
+                }, {
+                    text: 'Year',
+                    value: 'year'
+                }, {
+                    text: 'Theme',
+                    value: 'theme'
+                }],
+
+                search: '',
+                sortBy: 'year',
+                sortDesc: false,
+                DetailsDialog: false,
+                showDetailsDialog: false,
+                dialog: false,
+                chosenItem: {},
+                chosenVideo: "",
+
+
+
+            }
+        },
+        methods: {
+            handleClick(details) {
+                this.chosenItem = details;
+                console.log(this.chosenItem.title)
+                let modal = document.getElementById("myModal");
+                modal.style.display = "block";
+                document.getElementById("modalImage").innerHTML = "<img id='modalImage' src='" + this.chosenItem.image + "'</img>";
+
+                if (this.chosenItem.videoURL) {
+                    document.getElementById("modalVideo").innerHTML = '<a href=' + this.chosenItem.videoURL + ' target="_blank" rel="noopener noreferrer"><b>Video</b></a>';
+
+                };
+                if (this.chosenItem.lyricsURL) {
+                    document.getElementById("modalLyrics").innerHTML = ' <a href=' + this.chosenItem.lyricsURL + ' target="_blank" rel="noopener noreferrer"><b>Lyrics</b></a>';
+
+                };
+                if (this.chosenItem.notesURL) {
+                    document.getElementById("modalNotes").innerHTML = "Notes: <b>" + this.chosenItem.notesURL + "</b>"
+                } else {
+                    document.getElementById("modalNotes").innerHTML = ""
+                };
+
+                console.log(songs.indexOf(this.chosenItem));
+                let songIndex = songs.indexOf(this.chosenItem);
+                console.log(songs[songIndex].title);
+
+                let span = document.getElementsByClassName("close")[0];
+
+
+                // When the user clicks on <span> (x), close the modal
+                span.onclick = function() {
+                    modal.style.display = "none";
+                    window.onclick = function(event) {
+                        if (event.target == modal) {
+                            modal.style.display = "none";
+                        }
+                    };
+                };
+            },
+
+
+        },
+    });
+</script>
+
+</html>
