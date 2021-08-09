@@ -1247,7 +1247,7 @@ const songs = [{
     }, {
         "_id": "60eeed5c0a0fac1c253cbf6c",
         "title": "Nobody Knows You When You're Down and Out",
-        "artist": "Bessie Smith (Jimmie Cox)",
+        "artist": "Jimmie Cox",
         "year": "1929",
         "theme": "Class",
         "lyricsURL": "https://genius.com/Bessie-smith-nobody-knows-when-youre-down-and-out-lyrics",
