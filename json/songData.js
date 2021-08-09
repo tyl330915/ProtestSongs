@@ -619,8 +619,8 @@ const songs = [{
         "artist": "Lyrics: Alan Sherman",
         "year": "1965",
         "theme": "Class",
-        "lyricsURL": "http://www.protestsonglyrics.net/Anti_Class_Songs/Allan-Sherman-Chim-Chim-Cheree.phtml",
-        "videoURL": "http://www.protestsonglyrics.net/Anti_Class_Songs/Allan-Sherman-Chim-Chim-Cheree.phtml",
+        "lyricsURL": "https://genius.com/Allan-sherman-chim-chim-cheree-lyrics",
+        "videoURL": "https://youtu.be/4JIts1xIalg",
         "notesURL": "",
         "image": "https://1yd4xt11c7is39w2ckdxdls5-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/Allan-Sherman-750a.jpg"
     }, {
