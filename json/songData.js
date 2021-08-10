@@ -1306,7 +1306,7 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Engelse_Punk_Rockgroep_de_Sex_Pistols_in_Paradiso%2C_Bestanddeelnr_928-9661.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbfe8",
-        "title": "Whine and grine/Stand Down Margaret",
+        "title": "Whine and Grine/Stand Down Margaret",
         "artist": "The Specials",
         "year": "1982",
         "theme": "Revolution",
