@@ -2228,7 +2228,23 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/I_didn%27t_raise_my_boy_to_be_a_soldier1.jpg",
         "notesURL": "Answer songs",
         "__v": 0
-    }, {
+    }, 
+	{
+        "_id": "60febafbad8dc481d0c59",
+        "title": "Only a Pawn in Their Game",
+        "artist": "Bob Dylan",
+        "year": "1963",
+        "theme": "Race",
+        "lyricsURL": "https://genius.com/Bob-dylan-only-a-pawn-in-their-game-lyrics",
+        "videoURL": "https://youtu.be/l3kjsbmZ-g0",
+        "image": "https://i.pinimg.com/originals/2c/a6/62/2ca662cd6f734131f572a8c4aef46c1f.jpg",
+        "notesURL": "",
+        "__v": 0
+    }, 
+	
+	
+	
+	{
         "_id": "6104190282c308592c2ee49b",
         "title": "White Wine in the Sun",
         "artist": "Tim Minchin",
