@@ -2139,7 +2139,7 @@ const songs = [{
     }, {
         "_id": "60eeed5c0a0fac1c253cbf86",
         "title": "Secret Love",
-        "artist": " Sammy Fain and Paul Francis Webster",
+        "artist": "Sammy Fain and Paul Francis Webster",
         "year": "1953",
         "theme": "Sexuality",
         "lyricsURL": "https://genius.com/Doris-day-secret-love-lyrics",
