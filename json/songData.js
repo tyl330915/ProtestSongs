@@ -2242,8 +2242,6 @@ const songs = [{
         "__v": 0
     }, 
 	
-	
-	
 	{
         "_id": "6104190282c308592c2ee49b",
         "title": "White Wine in the Sun",
@@ -2265,8 +2263,7 @@ const songs = [{
         "notesURL": "<a href=\"https://tasteofcountry.com/loretta-lynn-the-pill-banned/\" target=\"_blank\">History of the song</a>",
         "__v": 0,
         "year": "1975"
-    },
-    {
+    }, {
         "_id": "6109680f82c308592c2ee4c3",
         "videoURL": "https://youtu.be/otwkXZ0SmTs",
         "title": "Whitey on the Moon",
