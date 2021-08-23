@@ -19,7 +19,7 @@ const songs = [{
         "lyricsURL": "https://genius.com/The-staple-singers-wade-in-the-water-lyrics",
         "videoURL": "https://youtu.be/YjXbgrsgiFE",
         "notesURL": "<a href=\"https://www.wfae.org/latest-national-and-international-headlines/2020-06-26/we-insist-a-century-of-black-music-against-state-violence\" target=\"_blank\">Black music against state violence</a>",
-        "image": "https://avltoday.6amcity.com/wp-content/uploads/sites/7/2017/12/McIntosh-County-Shouters-Sheehy-photo-credit-e1541600451241.jpg"
+        "image": "https://jbhe-bruconpublishing.netdna-ssl.com//wordpress/wp-content/uploads/2015/02/fisksing.gif"
     }, {
         "_id": "60ed8d670a0fac1c253cbf48",
         "title": "Jerusalem",
