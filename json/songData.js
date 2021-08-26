@@ -513,17 +513,7 @@ const songs = [{
         "videoURL": "https://youtu.be/bWXazVhlyxQ",
         "notesURL": "<a href=\"https://www.loudersound.com/features/story-behind-the-song-killing-in-the-name-by-rage-against-the-machine\" target=\"_blank\">Story behind the song</a>",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Rage_Against_The_Machine.jpg"
-    }, {
-        "_id": "60eeed5c0a0fac1c253cc011",
-        "title": "Prejudice",
-        "artist": "Tim Minchin",
-        "year": "2009",
-        "theme": "Prejudice",
-        "lyricsURL": "https://genius.com/Tim-minchin-prejudice-lyrics",
-        "videoURL": "https://youtu.be/KVN_0qvuhhw",
-        "notesURL": "<a href=\"https://www.newstatesman.com/helen-lewis/2014/10/tim-minchin-satirist-who-ran-out-upwards-punch\" target=\"_blank\">Article on Tim Minchin</a>",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Timminchin_tamlondon_2009.jpg"
-    }, {
+    },  {
         "_id": "60eeed5c0a0fac1c253cc018",
         "title": "Which Side Are You On?",
         "artist": "Ani Di Franco",
