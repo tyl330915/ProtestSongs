@@ -1590,7 +1590,7 @@ const songs = [{
         "title": "The Revolution will not be Televised",
         "artist": "Gil Scott Heron",
         "year": "1971",
-        "theme": "Race/Class/Equality",
+        "theme": "Race/Class/Equality/Revolution",
         "lyricsURL": "https://genius.com/Gil-scott-heron-introduction-the-revolution-will-not-be-televised-small-talk-at-125th-and-lenox-version-annotated",
         "videoURL": "https://www.youtube.com/watch?v=vwSRqaZGsPw",
         "notesURL": "",
