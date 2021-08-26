@@ -107,26 +107,13 @@ button {
     padding: 0.6em 2em;
     border-radius: 8px;
     color: #fff;
-    background-color: red;
     font-size: 1.1em;
     border: 0;
     cursor: pointer;
     margin: 1em;
 }
 
-#searchInput {
-    background-image: './assets/search_icon.png';
-    background-position: 10px 12px;
-    background-repeat: no-repeat;
-    position: relative;
-    float: right;
-    width: 30%;
-    font-size: 16px;
-    padding: 12px 20px 12px 40px;
-    border: 1px solid #ddd;
-    margin-bottom: 12px;
-    margin-right: 5%;
-}
+
 
 tbody tr:nth-of-type(odd) {
     background-color: rgba(0, 0, 0, .05);

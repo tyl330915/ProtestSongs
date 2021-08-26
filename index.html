@@ -22,9 +22,10 @@
                 <v-card>
 
                     <v-card-title>
-                        The Protest Song Master List
+                        The Protest Song List:
                         <v-spacer></v-spacer>
-                        <v-text-field v-model="search" append-icon="mdi-magnify" label="Search" single-line hide-details></v-text-field>
+                        <v-text-field  v-model="search" label="Search"   clearable></v-text-field>
+						<!--append-icon="mdi-magnify"-->
                     </v-card-title>
                     <v-data-table :headers="headers" :items="songs" :search="search" :items-per-page="20" :sort-by.sync="sortBy" :sort-desc.sync="sortDesc" dense @click:row="handleClick($event)">
 
