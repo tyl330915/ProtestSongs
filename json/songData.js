@@ -501,7 +501,7 @@ const songs = [{
         "theme": "Class",
         "lyricsURL": "https://genius.com/Usa-for-africa-we-are-the-world-lyrics",
         "videoURL": "https://youtu.be/9AjkUyX0rVw",
-        "notesURL": "",
+        "notesURL": "As a counterpoint, see Chumbawamba's <a href=\"https://genius.com/Chumbawamba-invasion-pictures-of-starving-children-sell-records-lyrics\" target=\"_blank\">Invasion (Pictures of Starving Children Sell Records)<a>",
         "image": "https://upload.wikimedia.org/wikipedia/en/8/81/We_Are_the_World_alternative_cover.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cc003",
