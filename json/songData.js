@@ -1143,8 +1143,8 @@ const songs = [{
         "lyricsURL": "http://www.protestsonglyrics.net/Freedom_Songs/Get-Off-The-Track.phtml",
         "videoURL": "https://youtu.be/tyoC-JccYcc",
         "notesURL": "",
-		"image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/1845_HutchinsonFamilySingers_MMA.jpg"
-	}, 	{
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/1845_HutchinsonFamilySingers_MMA.jpg"
+    }, {
         "_id": "60eeed5c0a0fac1c253cbf5a",
         "title": "No Irish Need Apply",
         "artist": "John F. Poole",
@@ -1152,10 +1152,9 @@ const songs = [{
         "theme": "Race",
         "lyricsURL": "https://genius.com/Pete-seeger-no-irish-need-apply-lyrics",
         "videoURL": "https://youtu.be/py363BW5_DE",
-        "notesURL": "<a href=\"https://newsincerity.us/wp-content/uploads/2017/05/IrishNeedNotApply.jpg" target=\"_blank\">History</a>",
-        "image": "https://irishamerica.com/wp-content/uploads/2016/12/FEATURE.No-Irish.jpg"}, 
-		
-		{
+        "notesURL": "<a href=\"https://www.irishcentral.com/roots/history/clancy-brothers-no-irish-need-apply\" target=\"_blank\">History</a>",
+        "image": "https://irishamerica.com/wp-content/uploads/2016/12/FEATURE.No-Irish.jpg"
+    }, {
         "_id": "60eeed5c0a0fac1c253cbf64",
         "title": "Solidarity Forever",
         "artist": "Ralph Chaplin",
