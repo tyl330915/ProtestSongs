@@ -1153,7 +1153,7 @@ const songs = [{
         "lyricsURL": "https://genius.com/Pete-seeger-no-irish-need-apply-lyrics",
         "videoURL": "https://youtu.be/py363BW5_DE",
         "notesURL": "<a href=\"https://www.irishcentral.com/roots/history/clancy-brothers-no-irish-need-apply\" target=\"_blank\">History</a>",
-        "image": "https://newsincerity.us/wp-content/uploads/2017/05/IrishNeedNotApply.jpg"
+        "image": "https://www.antiquesnavigator.com/archive/2019/04/18/163647260869.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf64",
         "title": "Solidarity Forever",
