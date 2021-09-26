@@ -2265,8 +2265,8 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gil_Scott_Heron_%2855208414%29.jpeg"
     }, {
         "_id": "6109680f82c30859",
-        "videoURL": "https://youtu.be/otwkXZ0SmTs",
-        "title": "Everybody Knopws",
+        "videoURL": "https://youtu.be/xu8u9ZbCJgQ",
+        "title": "Everybody Knows",
         "artist": "Leonard Cohen",
         "year": "1984",
         "theme": "General",
