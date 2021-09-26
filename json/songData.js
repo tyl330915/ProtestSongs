@@ -2263,6 +2263,16 @@ const songs = [{
         "lyricsURL": "https://genius.com/Gil-scott-heron-whitey-on-the-moon-annotated",
         "__v": 0,
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gil_Scott_Heron_%2855208414%29.jpeg"
+    }, {
+        "_id": "6109680f82c30859",
+        "videoURL": "https://youtu.be/otwkXZ0SmTs",
+        "title": "Everybody Knopws",
+        "artist": "Leonard Cohen",
+        "year": "1984",
+        "theme": "General",
+        "lyricsURL": "https://genius.com/Leonard-cohen-hallelujah-lyrics",
+        "__v": 0,
+        "image": "https://assets.sutori.com/user-uploads/image/00429cfd-0b2f-43c8-b799-89467e8636c9/5f0f593e20c08165328a7a264fdd631c.jpeg"
     }
 
 ];
