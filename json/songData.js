@@ -2270,7 +2270,7 @@ const songs = [{
         "artist": "Leonard Cohen",
         "year": "1984",
         "theme": "General",
-        "lyricsURL": "https://genius.com/Leonard-cohen-hallelujah-lyrics",
+        "lyricsURL": "https://genius.com/Leonard-cohen-everybody-knows-lyrics",
         "__v": 0,
         "image": "https://assets.sutori.com/user-uploads/image/00429cfd-0b2f-43c8-b799-89467e8636c9/5f0f593e20c08165328a7a264fdd631c.jpeg"
     }
