@@ -1637,7 +1637,7 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TV_programma_Music_All_Inn_zanger_Randy_Newman_in_actie%2C_Bestanddeelnr_927-8127.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbfef",
-        "title": "Do They Know it's Christmas Time?",
+        "title": "Do They Know it's Christmas?",
         "artist": "Band Aid",
         "year": "1984",
         "theme": "Class",
