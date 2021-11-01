@@ -699,7 +699,7 @@ const songs = [{
         "artist": "Leadbelly",
         "year": "1939",
         "theme": "Race",
-        "lyricsURL": "https://genius.com/Lead-belly-the-bourgeois-blues-1939-lyrics",
+        "lyricsURL": "https://genius.com/Lead-belly-the-bourgeois-blues-1938-lyrics",
         "videoURL": "https://youtu.be/Dk6Y9uIwiMI",
         "notesURL": "",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Leadbelly2byGottliebcropped.jpg"
