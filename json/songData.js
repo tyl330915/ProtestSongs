@@ -1612,7 +1612,7 @@ const songs = [{
         "year": "1971",
         "theme": "Religion/War",
         "lyricsURL": "https://genius.com/John-lennon-imagine-lyrics",
-        "videoURL": "https://www.youtube.com/watch?v=T2hvkPyiAFE",
+        "videoURL": "https://youtu.be/EJ72bYyEtBg",
         "notesURL": "",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/John_Lennon_%28cropped%29.jpg"
     }, {
