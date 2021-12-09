@@ -2288,7 +2288,7 @@ const songs = [{
     },
     {
         "_id": "6106998d82",
-        "title": "When the Prsident Talks to God",
+        "title": "When the President Talks to God",
         "artist": "Bright Eyes",
         "theme": "War",
         "lyricsURL": "https://genius.com/Bright-eyes-when-the-president-talks-to-god-lyrics",
