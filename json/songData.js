@@ -513,7 +513,7 @@ const songs = [{
         "videoURL": "https://youtu.be/bWXazVhlyxQ",
         "notesURL": "<a href=\"https://www.loudersound.com/features/story-behind-the-song-killing-in-the-name-by-rage-against-the-machine\" target=\"_blank\">Story behind the song</a>",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Rage_Against_The_Machine.jpg"
-    },  {
+    }, {
         "_id": "60eeed5c0a0fac1c253cc018",
         "title": "Which Side Are You On?",
         "artist": "Ani Di Franco",
@@ -2218,8 +2218,8 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/I_didn%27t_raise_my_boy_to_be_a_soldier1.jpg",
         "notesURL": "Answer songs",
         "__v": 0
-    }, 
-	{
+    },
+    {
         "_id": "60febafbad8dc481d0c59",
         "title": "Only a Pawn in Their Game",
         "artist": "Bob Dylan",
@@ -2230,9 +2230,9 @@ const songs = [{
         "image": "https://i.pinimg.com/originals/2c/a6/62/2ca662cd6f734131f572a8c4aef46c1f.jpg",
         "notesURL": "",
         "__v": 0
-    }, 
-	
-	{
+    },
+
+    {
         "_id": "6104190282c308592c2ee49b",
         "title": "White Wine in the Sun",
         "artist": "Tim Minchin",
@@ -2273,6 +2273,30 @@ const songs = [{
         "lyricsURL": "https://genius.com/Leonard-cohen-everybody-knows-lyrics",
         "__v": 0,
         "image": "https://assets.sutori.com/user-uploads/image/00429cfd-0b2f-43c8-b799-89467e8636c9/5f0f593e20c08165328a7a264fdd631c.jpeg"
+    },
+    {
+        "_id": "6106998d82c308",
+        "title": "To the Teeth",
+        "artist": "Ani DiFranco",
+        "theme": "War",
+        "lyricsURL": "https://genius.com/Ani-difranco-to-the-teeth-lyrics",
+        "videoURL": "https://youtu.be/VCiwgnrlGmg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ani_DiFranco_Rudolstadt_07.jpg",
+        "notesURL": "<https://www.theguardian.com/music/2019/may/17/ani-difranco-im-sorry-if-im-not-what-you-need-me-to-be target=\"_blank\">History of the song</a>",
+        "__v": 0,
+        "year": "1999"
+    },
+    {
+        "_id": "6106998d82",
+        "title": "When the Prsident Talks to God",
+        "artist": "Bright Eyes",
+        "theme": "War",
+        "lyricsURL": "https://genius.com/Bright-eyes-when-the-president-talks-to-god-lyrics",
+        "videoURL": "https://youtu.be/A-_HemCiFHs",
+        "image": "https://americansongwriter.com/wp-content/uploads/2009/07/conoroberst.jpg?w=500",
+        "notesURL": "",
+        "__v": 0,
+        "year": "2005"
     }
 
 ];
