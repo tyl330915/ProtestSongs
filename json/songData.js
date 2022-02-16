@@ -2297,6 +2297,17 @@ const songs = [{
         "notesURL": "",
         "__v": 0,
         "year": "2005"
+    },
+    {
+        "_id": "6109680f82c308592c2",
+        "videoURL": "https://youtu.be/I9ci7XJKRdw",
+        "title": "Whitey on the MoonShut 'um Down",
+        "artist": "Gil Scott-Heron & Brian Jackson",
+        "year": "1980",
+        "theme": "Nuclear Energy",
+        "lyricsURL": "https://genius.com/Gil-scott-heron-and-brian-jackson-shut-um-down-lyrics",
+        "__v": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gil_Scott_Heron_%2855208414%29.jpeg"
     }
 
 ];
