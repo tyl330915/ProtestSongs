@@ -2301,7 +2301,7 @@ const songs = [{
     {
         "_id": "6109680f82c308592c2",
         "videoURL": "https://youtu.be/I9ci7XJKRdw",
-        "title": "Whitey on the MoonShut 'um Down",
+        "title": "Shut 'um Down",
         "artist": "Gil Scott-Heron & Brian Jackson",
         "year": "1980",
         "theme": "Nuclear Energy",
