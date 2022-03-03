@@ -2324,7 +2324,7 @@ const songs = [{
         "videoURL": "https://youtu.be/joh37lrvf-s",
         "title": "Uptown Top Ranking",
         "artist": "Althea and Donna",
-        "year": "2012",
+        "year": "1977",
         "theme": "Gender/Class",
         "lyricsURL": "https://genius.com/Althea-and-donna-uptown-top-ranking-lyrics",
         "__v": 0,
