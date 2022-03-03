@@ -2308,6 +2308,27 @@ const songs = [{
         "lyricsURL": "https://genius.com/Gil-scott-heron-and-brian-jackson-shut-um-down-lyrics",
         "__v": 0,
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gil_Scott_Heron_%2855208414%29.jpeg"
-    }
+    },
+    {
+        "_id": "6109680f82c392c2",
+        "videoURL": "https://youtu.be/9bZkp7q19f0",
+        "title": "Gangnam Style",
+        "artist": "Psy",
+        "year": "2012",
+        "theme": "Gender",
+        "lyricsURL": "https://genius.com/Psy-gangnam-style-lyrics",
+        "__v": 0,
+        "image": "https://theupcoming-flmedialtd.netdna-ssl.com/wp-content/uploads/2012/10/Gangnam-style-Thumbnail.jpg"
+    }, {
+        "_id": "6109680ffffff82c392c2",
+        "videoURL": "https://youtu.be/joh37lrvf-s",
+        "title": "Uptown Top Ranking",
+        "artist": "Althea and Donna",
+        "year": "2012",
+        "theme": "Gender",
+        "lyricsURL": "https://genius.com/Althea-and-donna-uptown-top-ranking-lyrics",
+        "__v": 0,
+        "image": "https://static.wikia.nocookie.net/peel/images/e/e0/Tumblr_lqzsm1m7wl1qam9a3o1_r1_400.jpg/revision/latest/scale-to-width-down/400?cb=20191110120812"
+    },
 
 ];
