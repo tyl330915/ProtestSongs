@@ -2325,10 +2325,10 @@ const songs = [{
         "title": "Uptown Top Ranking",
         "artist": "Althea and Donna",
         "year": "2012",
-        "theme": "Gender, Class",
+        "theme": "Gender/Class",
         "lyricsURL": "https://genius.com/Althea-and-donna-uptown-top-ranking-lyrics",
         "__v": 0,
-        "image": "https://static.wikia.nocookie.net/peel/images/e/e0/Tumblr_lqzsm1m7wl1qam9a3o1_r1_400.jpg/revision/latest/scale-to-width-down/400?cb=20191110120812"
+        "image": "https://i.pinimg.com/originals/f3/d1/8b/f3d18ba5991421deeecfdab26db81500.jpg"
     },
 
 ];
