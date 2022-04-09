@@ -2336,7 +2336,7 @@ const songs = [{
         "title": "The Fear",
         "artist": "Lily Allen",
         "year": "2008",
-        "theme": "Modern life",
+        "theme": "Capitalism",
         "lyricsURL": "https://genius.com/Lily-allen-the-fear-lyrics",
         "__v": 0,
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lily_Allen_%2817590067808%29.jpg"
