@@ -2341,5 +2341,28 @@ const songs = [{
         "__v": 0,
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lily_Allen_%2817590067808%29.jpg"
     },
+    {
+        "_id": "610fddd9680ff82c392c2",
+        "videoURL": "https://youtu.be/q-wGMlSuX_c",
+        "title": "The Fear",
+        "artist": "Lily Allen",
+        "year": "2008",
+        "theme": "Modern life",
+        "lyricsURL": "https://genius.com/Lily-allen-the-fear-lyrics",
+        "__v": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lily_Allen_%2817590067808%29.jpg"
+    },
+    {
+        "_id": "610fddd9680ff82c392c2",
+        "videoURL": "https://youtu.be/saEpkcVi1d4",
+        "title": "Hey Hey Rise Up",
+        "artist": "Pink Floyd/Andriy Khlyvnyuk",
+        "year": "2022",
+        "theme": "Ukraine War",
+        "lyricsURL": "https://genius.com/Pink-floyd-hey-hey-rise-up-lyrics",
+        "__v": 0,
+        "image": "https://static.standard.co.uk/2022/02/28/08/AndriyKhlyvnyukv2-1.jpg?width=968&auto=webp&quality=50&crop=968%3A645%2Csmart"
+    },
+
 
 ];
