@@ -2330,5 +2330,16 @@ const songs = [{
         "__v": 0,
         "image": "https://i.pinimg.com/originals/f3/d1/8b/f3d18ba5991421deeecfdab26db81500.jpg"
     },
+    {
+        "_id": "6109680ff82c392c2",
+        "videoURL": "https://youtu.be/IHsoHkQZ_V8",
+        "title": "The Fear",
+        "artist": "Lily Allen",
+        "year": "2008",
+        "theme": "Modern life",
+        "lyricsURL": "https://genius.com/Lily-allen-the-fear-lyrics",
+        "__v": 0,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Lily_Allen_%2817590067808%29.jpg"
+    },
 
 ];
