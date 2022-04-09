@@ -2349,6 +2349,7 @@ const songs = [{
         "year": "2022",
         "theme": "Ukraine War",
         "lyricsURL": "https://genius.com/Pink-floyd-hey-hey-rise-up-lyrics",
+        "notesURL": "<https://www.theguardian.com/music/2022/apr/07/pink-floyd-reform-to-support-ukraine target=\"_blank\">History of the song</a>",
         "__v": 0,
         "image": "https://static.standard.co.uk/2022/02/28/08/AndriyKhlyvnyukv2-1.jpg?width=968&auto=webp&quality=50&crop=968%3A645%2Csmart"
     },
