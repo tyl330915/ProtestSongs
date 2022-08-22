@@ -2357,7 +2357,7 @@ const songs = [{
         "videoURL": "https://youtu.be/9QGqWUEghGw",
         "title": "Protest Song",
         "artist": "Richard Séguin",
-        "year": "1984",
+        "year": "1988",
         "theme": "General",
         "lyricsURL": "https://lyricstranslate.com/en/protest-song-protest-song.html-0",
         "__v": 0,
