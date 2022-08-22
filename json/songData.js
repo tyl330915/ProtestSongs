@@ -2352,7 +2352,17 @@ const songs = [{
         "notesURL": "<https://www.theguardian.com/music/2022/apr/07/pink-floyd-reform-to-support-ukraine target=\"_blank\">History of the song</a>",
         "__v": 0,
         "image": "https://static.standard.co.uk/2022/02/28/08/AndriyKhlyvnyukv2-1.jpg?width=968&auto=webp&quality=50&crop=968%3A645%2Csmart"
-    },
+    }, {
+        "_id": "6109680f82c30859sssss",
+        "videoURL": "https://youtu.be/9QGqWUEghGw",
+        "title": "Protest Song",
+        "artist": "Richard Séguin",
+        "year": "1984",
+        "theme": "General",
+        "lyricsURL": "https://lyricstranslate.com/en/protest-song-protest-song.html-0",
+        "__v": 0,
+        "image": "https://cdn-az.allevents.in/events9/banners/b61522ce34d680d6818309a787d692f5656ec01a29096269125744095800eed9-rimg-w960-h637-gmir.jpg?v=1657504353"
+    }
 
 
 ];
