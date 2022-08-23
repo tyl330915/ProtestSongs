@@ -2362,7 +2362,7 @@ const songs = [{
         "lyricsURL": "https://lyricstranslate.com/en/protest-song-protest-song.html-0",
         "__v": 0,
         "image": "https://cdn-az.allevents.in/events9/banners/b61522ce34d680d6818309a787d692f5656ec01a29096269125744095800eed9-rimg-w960-h637-gmir.jpg?v=1657504353"
-    } {
+    }, {
         "_id": "610fddd9680ff82c3fffs92c2",
         "videoURL": "https://youtu.be/nlcIKh6sBtc",
         "title": "Royals",
@@ -2372,7 +2372,7 @@ const songs = [{
         "lyricsURL": "https://genius.com/Lorde-royals-lyrics",
         "notesURL": "",
         "image": "https://www.nme.com/wp-content/uploads/2016/09/2013Lorde_Press_Garth_Badger160813.jpg"
-    },
+    }
 
 
 ];
