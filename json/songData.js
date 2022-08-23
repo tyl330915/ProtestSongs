@@ -440,7 +440,7 @@ const songs = [{
         "year": "1968",
         "theme": "Class",
         "lyricsURL": "https://genius.com/Paul-simon-america-lyrics",
-        "videoURL": "https://youtu.be/sFAoWwUwknc",
+        "videoURL": "https://youtu.be/J5OeBgmqt4w",
         "notesURL": "",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Paul_Simon_in_1982.jpg"
     }, {
