@@ -1454,7 +1454,7 @@ const songs = [{
         "lyricsURL": "https://genius.com/Pete-seeger-which-side-are-you-on-lyrics",
         "videoURL": "https://youtu.be/5iAIM02kv0g",
         "notesURL": "",
-        "image": "https://www.wmmt.org/wp-content/uploads/2015/03/florence-reece.jpg"
+        "image": "https://www.peoplesworld.org/wp-content/uploads/2016/08/florencereese520x300.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf72",
         "title": "Manchester Rambler",
