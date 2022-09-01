@@ -521,7 +521,7 @@ const songs = [{
         "theme": "Class",
         "lyricsURL": "https://genius.com/Ani-difranco-which-side-are-you-on-lyrics",
         "videoURL": "https://youtu.be/Sx-ATtinIj4",
-        "notesURL": "",
+        "notesURL": "cf Florence Reese's song of the same title",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ani_Difranco_Ancienne_Belgique.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cc01a",
@@ -891,7 +891,7 @@ const songs = [{
         "theme": "Race",
         "lyricsURL": "https://genius.com/Aretha-franklin-young-gifted-and-black-lyrics",
         "videoURL": "https://youtu.be/ubDVUQon5BE",
-        "notesURL": "",
+        "notesURL": "cf Nina Simone's \"Young, Gifted and Black\",",
         "image": "https://img.discogs.com/5VsifVd8phqKTyXa44NLMBmJH0w=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2764932-1300023385.jpeg.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbfc3",
@@ -1453,7 +1453,7 @@ const songs = [{
         "theme": "Class",
         "lyricsURL": "https://genius.com/Pete-seeger-which-side-are-you-on-lyrics",
         "videoURL": "https://youtu.be/5iAIM02kv0g",
-        "notesURL": "",
+        "notesURL": "cf Ani DiFranco's song of the same title",
         "image": "https://www.peoplesworld.org/wp-content/uploads/2016/08/florencereese520x300.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf72",
