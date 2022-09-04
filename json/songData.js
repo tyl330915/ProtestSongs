@@ -2372,6 +2372,16 @@ const songs = [{
         "lyricsURL": "https://genius.com/Lorde-royals-lyrics",
         "notesURL": "",
         "image": "https://www.nme.com/wp-content/uploads/2016/09/2013Lorde_Press_Garth_Badger160813.jpg"
+    }, {
+        "_id": "610fddffff680ff82c3fffs92c2",
+        "videoURL": "https://youtu.be/3-FSqA6QPeQ",
+        "title": "The Last Resort",
+        "artist": "The Eagles",
+        "year": "1976",
+        "theme": "Environment",
+        "lyricsURL": "https://genius.com/Eagles-the-last-resort-lyrics",
+        "notesURL": "",
+        "image": "https://cdns-images.dzcdn.net/images/cover/9db8cd34c38c4010404d2dd5acc691cc/264x264.jpg"
     }
 
 
