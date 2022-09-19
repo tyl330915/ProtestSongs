@@ -1503,7 +1503,7 @@ const songs = [{
         "theme": "Race/Class/Equality",
         "lyricsURL": "https://genius.com/Bob-dylan-blowin-in-the-wind-lyrics",
         "videoURL": "https://www.youtube.com/watch?v=vWwgrjjIMXA",
-        "notesURL": "<a href=\"https://500songs.com/podcast/episode-109-blowin-in-the-wind-by-peter-paul-and-mary-2/\" target=\"_blank\"><i>History of Rock in 500 Songs</i> episode</a>",
+        "notesURL": "<a href=\"https://500songs.com/podcast/episode-109-blowin-in-the-wind-by-peter-paul-and-mary-2/\" target=\"_blank\"><i>History of Rock in 500 Songs</i> episode</a>. <br> The tune is from 'No More Auction Block' (cf)",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Joan_Baez_Bob_Dylan.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf9a",
