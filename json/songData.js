@@ -2382,6 +2382,16 @@ const songs = [{
         "lyricsURL": "https://genius.com/Eagles-the-last-resort-lyrics",
         "notesURL": "",
         "image": "https://cdns-images.dzcdn.net/images/cover/9db8cd34c38c4010404d2dd5acc691cc/264x264.jpg"
+    }, {
+        "_id": "61090950-3490-5490-2c3fffs92c2",
+        "videoURL": "https://youtu.be/Ky4uYnsF3kc",
+        "title": "Television: The Drug of the Nation",
+        "artist": "The Disposable Heroes of Hiphoprisy",
+        "year": "1992",
+        "theme": "Media",
+        "lyricsURL": "https://genius.com/Disposable-heroes-of-hiphoprisy-television-the-drug-of-the-nation-lyrics",
+        "notesURL": "",
+        "image": "https://i.discogs.com/ePLJVFBodqHdiEEPicbsiqeLc9R43WMP5PeQqTFyBIE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Mzk2/LTE1MTgzMzgzNDAt/MTg2OC5qcGVn.jpeg"
     }
 
 
