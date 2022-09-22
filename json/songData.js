@@ -170,7 +170,7 @@ const songs = [{
         "theme": "Revolution",
         "lyricsURL": "https://genius.com/Green-day-american-idiot-lyrics",
         "videoURL": "https://youtu.be/Ee_uujKuJMI",
-        "notesURL": "",
+        "notesURL": "https://loudwire.com/green-day-american-idiot-album-anniversary/",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Green_Day_Venezuela.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cc015",
@@ -1302,7 +1302,7 @@ const songs = [{
         "theme": "Revolution",
         "lyricsURL": "https://genius.com/The-beat-whine-and-grine-stand-down-margaret-lyrics",
         "videoURL": "https://youtu.be/zFaFVhyjb5Y",
-        "notesURL": "",
+        "notesURL": "https://www.songfacts.com/blog/interviews/dave-wakeling-of-the-english-beat",
         "image": "https://media.gq-magazine.co.uk/photos/5e7c9f21525b920008162b23/master/pass/20200326-specials-01.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbfed",
@@ -2104,7 +2104,7 @@ const songs = [{
         "theme": "Revolution",
         "lyricsURL": "https://genius.com/Pussy-riot-police-state-lyrics",
         "videoURL": "https://youtu.be/oaZl12Z5P7g",
-        "notesURL": "",
+        "notesURL": "https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html",
         "image": "https://www.hrw.org/sites/default/files/styles/image_gallery/public/media/images/photographs/2012_Russia_pussyriot.jpg?itok=fv3aDE4H"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf5f",
