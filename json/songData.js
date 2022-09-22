@@ -170,7 +170,7 @@ const songs = [{
         "theme": "Revolution",
         "lyricsURL": "https://genius.com/Green-day-american-idiot-lyrics",
         "videoURL": "https://youtu.be/Ee_uujKuJMI",
-        "notesURL": "https://loudwire.com/green-day-american-idiot-album-anniversary/",
+        "notesURL": "<a href =\"https://loudwire.com/green-day-american-idiot-album-anniversary\" target = \"_blank\">'American Idiot' anniversary</a>",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Green_Day_Venezuela.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cc015",
