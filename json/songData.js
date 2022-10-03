@@ -1368,7 +1368,7 @@ const songs = [{
         "_id": "60eeed5c0a0fac1c253cbf5c",
         "title": "There are Ninety and Nine",
         "artist": "Rose Elizabeth Smith(?)",
-        "year": "1868",
+        "year": "1890",
         "theme": "Class",
         "lyricsURL": "http://www.protestsonglyrics.net/Labor_Union_Songs/Are-Ninety-Nine.phtml",
         "videoURL": "",
