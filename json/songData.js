@@ -2400,7 +2400,7 @@ const songs = [{
         "theme": "Capitalism",
         "lyricsURL": "https://www.songfacts.com/lyrics/traditional/the-cutty-wren",
         "videoURL": "https://www.youtube.com/watch?v=j3UdQzlXeho",
-        "notesURL": "<a href=https://mainlynorfolk.info/ian.campbell/songs/thecuttywren.html>Background</a>",
+        "notesURL": "<a href=\"https://mainlynorfolk.info/ian.campbell/songs/thecuttywren.html\" target=\"_blank\">Background</a>",
         "image": "https://www.antiwarsongs.org/img/upl/cuttywren.jpg"
     }
 
