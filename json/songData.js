@@ -2282,7 +2282,7 @@ const songs = [{
         "lyricsURL": "https://genius.com/Ani-difranco-to-the-teeth-lyrics",
         "videoURL": "https://youtu.be/VCiwgnrlGmg",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ani_DiFranco_Rudolstadt_07.jpg",
-        "notesURL": "<https://www.theguardian.com/music/2019/may/17/ani-difranco-im-sorry-if-im-not-what-you-need-me-to-be target=\"_blank\">History of the song</a>",
+        "notesURL": "<a href=https://www.theguardian.com/music/2019/may/17/ani-difranco-im-sorry-if-im-not-what-you-need-me-to-be target=\"_blank\">History of the song</a>",
         "__v": 0,
         "year": "1999"
     },
@@ -2400,7 +2400,7 @@ const songs = [{
         "theme": "Capitalism",
         "lyricsURL": "https://www.songfacts.com/lyrics/traditional/the-cutty-wren",
         "videoURL": "https://www.youtube.com/watch?v=j3UdQzlXeho",
-        "notesURL": "<https://mainlynorfolk.info/ian.campbell/songs/thecuttywren.html>Background</a>",
+        "notesURL": "<a href=https://mainlynorfolk.info/ian.campbell/songs/thecuttywren.html>Background</a>",
         "image": "https://www.antiwarsongs.org/img/upl/cuttywren.jpg"
     }
 
