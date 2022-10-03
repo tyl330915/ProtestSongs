@@ -2104,7 +2104,7 @@ const songs = [{
         "theme": "Revolution",
         "lyricsURL": "https://genius.com/Pussy-riot-police-state-lyrics",
         "videoURL": "https://youtu.be/oaZl12Z5P7g",
-        "notesURL": "https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html",
+        "notesURL": "<a href=\"https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html\">NYT article</a>",
         "image": "https://www.hrw.org/sites/default/files/styles/image_gallery/public/media/images/photographs/2012_Russia_pussyriot.jpg?itok=fv3aDE4H"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf5f",
