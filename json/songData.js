@@ -579,7 +579,7 @@ const songs = [{
         "artist": "Woody Guthrie",
         "year": "1940",
         "theme": "Class",
-        "lyricsURL": "http://www.protestsonglyrics.net/Anti_Class_Songs/Jolly-Banker.phtml",
+        "lyricsURL": "https://genius.com/Billy-bragg-and-wilco-the-jolly-banker-lyrics",
         "videoURL": "https://youtu.be/NdyLb7ouXUU",
         "notesURL": "",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Woody_Guthrie_2.jpg"
