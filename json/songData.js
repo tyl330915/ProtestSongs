@@ -2402,7 +2402,28 @@ const songs = [{
         "videoURL": "https://www.youtube.com/watch?v=j3UdQzlXeho",
         "notesURL": "<a href=\"https://mainlynorfolk.info/ian.campbell/songs/thecuttywren.html\" target=\"_blank\">Background</a>",
         "image": "https://www.antiwarsongs.org/img/upl/cuttywren.jpg"
-    }
+    }, {
+        "_id": "60eeewfwewf666c1c253-cb-f5b",
+        "title": "Which Side are You On?",
+        "artist": "Florence Reece (Pete Seeger)",
+        "year": "1931",
+        "theme": "Capitalism",
+        "lyricsURL": "https://genius.com/Pete-seeger-which-side-are-you-on-lyrics",
+        "videoURL": "https://youtu.be/5iAIM02kv0g",
+        "notesURL": "<a href=\"https://ig.ft.com/life-of-a-song/which-side-are-you-on.html\" target=\"_blank\">Background</a><br>See also versions by Ani Di Franco and Rebel Diaz",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pete_Seeger.jpg"
+    }, {
+        "_id": "60eeewfwewf666c1c253-cb-f5b",
+        "title": "Which Side are You On?",
+        "artist": "Rebel Diaz",
+        "year": "2015",
+        "theme": "Capitalism",
+        "lyricsURL": "https://genius.com/Pete-seeger-which-side-are-you-on-lyrics",
+        "videoURL": "https://youtu.be/5iAIM02kv0g",
+        "notesURL": "<a href=\"https://genius.com/Rebel-diaz-which-side-are-you-on-remix-lyrics\" target=\"_blank\">Background</a><br>See also versions by Ani Di Franco and Rebel Diaz",
+        "image": "https://i.discogs.com/ORuJqbcCiNQD6j_9GaYI-j6s1UTvCM1PZ1RO3wUDyvE/rs:fit/g:sm/q:90/h:341/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzYz/MDItMTU0NDI5NTY4/OS04NTc2LmpwZWc.jpeg"
+    },
+
 
 
 ];
