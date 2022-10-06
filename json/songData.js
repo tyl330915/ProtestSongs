@@ -2406,7 +2406,7 @@ const songs = [{
         "_id": "60eeewfwewf4454554545455454666c1c253-cb-f5b",
         "title": "Which Side are You On?",
         "artist": "Rebel Diaz",
-        "year": "2015",
+        "year": "2013",
         "theme": "Capitalism",
         "lyricsURL": "https://genius.com/15040836",
         "videoURL": "https://youtu.be/jSZWslqjfPE",
