@@ -1453,7 +1453,7 @@ const songs = [{
         "theme": "Class",
         "lyricsURL": "https://genius.com/Pete-seeger-which-side-are-you-on-lyrics",
         "videoURL": "https://youtu.be/5iAIM02kv0g",
-        "notesURL": "cf Ani DiFranco's song of the same title",
+        "notesURL": "<a href=\"https://ig.ft.com/life-of-a-song/which-side-are-you-on.html\" target=\"_blank\">Background</a><br>See also versions by Ani Di Franco and Rebel Diaz",
         "image": "https://www.peoplesworld.org/wp-content/uploads/2016/08/florencereese520x300.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf72",
@@ -2402,16 +2402,6 @@ const songs = [{
         "videoURL": "https://www.youtube.com/watch?v=j3UdQzlXeho",
         "notesURL": "<a href=\"https://mainlynorfolk.info/ian.campbell/songs/thecuttywren.html\" target=\"_blank\">Background</a>",
         "image": "https://www.antiwarsongs.org/img/upl/cuttywren.jpg"
-    }, {
-        "_id": "60eeewfwewf666c1c253-cb-f5b",
-        "title": "Which Side are You On?",
-        "artist": "Florence Reece (Pete Seeger)",
-        "year": "1931",
-        "theme": "Capitalism",
-        "lyricsURL": "https://genius.com/Pete-seeger-which-side-are-you-on-lyrics",
-        "videoURL": "https://youtu.be/5iAIM02kv0g",
-        "notesURL": "<a href=\"https://ig.ft.com/life-of-a-song/which-side-are-you-on.html\" target=\"_blank\">Background</a><br>See also versions by Ani Di Franco and Rebel Diaz",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pete_Seeger.jpg"
     }, {
         "_id": "60eeewfwewf4454554545455454666c1c253-cb-f5b",
         "title": "Which Side are You On?",
