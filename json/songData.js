@@ -2418,7 +2418,7 @@ const songs = [{
         "artist": "Rebel Diaz",
         "year": "2015",
         "theme": "Capitalism",
-        "lyricsURL": "https://genius.com/Pete-seeger-which-side-are-you-on-lyrics",
+        "lyricsURL": "https://genius.com/15040836",
         "videoURL": "https://youtu.be/jSZWslqjfPE",
         "notesURL": "<a href=\"https://genius.com/Rebel-diaz-which-side-are-you-on-remix-lyrics\" target=\"_blank\">Background</a><br>See also versions by Ani Di Franco and Rebel Diaz",
         "image": "https://i.discogs.com/ORuJqbcCiNQD6j_9GaYI-j6s1UTvCM1PZ1RO3wUDyvE/rs:fit/g:sm/q:90/h:341/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzYz/MDItMTU0NDI5NTY4/OS04NTc2LmpwZWc.jpeg"
