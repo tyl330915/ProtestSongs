@@ -521,7 +521,7 @@ const songs = [{
         "theme": "Class",
         "lyricsURL": "https://genius.com/Ani-difranco-which-side-are-you-on-lyrics",
         "videoURL": "https://youtu.be/Sx-ATtinIj4",
-        "notesURL": "cf Florence Reese's song of the same title",
+        "notesURL": "cf Florence Reese's oginal, and a version by Rebel Diaz",
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ani_Difranco_Ancienne_Belgique.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cc01a",
