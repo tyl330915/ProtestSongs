@@ -1447,7 +1447,7 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pete_Seeger.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf6d",
-        "title": "Which Side are you on?",
+        "title": "Which Side Are You on?",
         "artist": "Florence Reece",
         "year": "1931",
         "theme": "Class",
@@ -2404,7 +2404,7 @@ const songs = [{
         "image": "https://www.antiwarsongs.org/img/upl/cuttywren.jpg"
     }, {
         "_id": "60eeewfwewf4454554545455454666c1c253-cb-f5b",
-        "title": "Which Side are You On?",
+        "title": "Which Side Are You On?",
         "artist": "Rebel Diaz",
         "year": "2013",
         "theme": "Capitalism",
