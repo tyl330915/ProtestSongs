@@ -2316,7 +2316,7 @@ const songs = [{
         "artist": "Psy",
         "year": "2012",
         "theme": "Gender",
-        "lyricsURL": "https://genius.com/Psy-gangnam-style-lyrics",
+        "lyricsURL": "https://genius.com/Genius-english-translations-psy-gangnam-style-english-translation-lyrics",
         "__v": 0,
         "image": "https://theupcoming-flmedialtd.netdna-ssl.com/wp-content/uploads/2012/10/Gangnam-style-Thumbnail.jpg"
     }, {
