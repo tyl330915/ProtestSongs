@@ -1518,7 +1518,7 @@ const songs = [{
     }, {
         "_id": "60eeed5c0a0fac1c253cbf9d",
         "title": "Respect",
-        "artist": "Aretha Franklin",
+        "artist": "Otis Redding (Aretha Franklin)",
         "year": "1965",
         "theme": "Gender",
         "lyricsURL": "https://genius.com/Aretha-franklin-respect-lyrics",
@@ -1988,8 +1988,8 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DixieChicksMSG062003.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf69",
-        "title": "T'ain't Nobody Business If I Do",
-        "artist": "Bessie Smith",
+        "title": "T'ain't Nobody's Business If I Do",
+        "artist": "Porter Grainger, Everett Robbins (Bessie Smith)",
         "year": "1923",
         "theme": "Gender/General",
         "lyricsURL": "https://genius.com/Bessie-smith-taint-nobodys-business-if-i-do-lyrics",
