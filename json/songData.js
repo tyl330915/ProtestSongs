@@ -938,7 +938,7 @@ const songs = [{
         "title": "Fast Car",
         "artist": "Tracy Chapman",
         "year": "1988",
-        "theme": "Sexuality/Poverty",
+        "theme": "Class",
         "lyricsURL": "https://genius.com/Tracy-chapman-fast-car-lyrics",
         "videoURL": "https://youtu.be/AIOAlaACuv4",
         "notesURL": "",
