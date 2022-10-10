@@ -1447,7 +1447,7 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pete_Seeger.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf6d",
-        "title": "Which Side Are You on?",
+        "title": "Which Side Are You On?",
         "artist": "Florence Reece",
         "year": "1931",
         "theme": "Class",
