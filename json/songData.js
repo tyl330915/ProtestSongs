@@ -1420,7 +1420,7 @@ const songs = [{
         "artist": "Carl E. Burch, Mrs. William G. Harvey",
         "year": "1917",
         "theme": "Gender",
-        "lyricsURL": "",
+        "lyricsURL": "https://www.loc.gov/resource/mussuffrage.mussuffrage-100096/",
         "videoURL": "https://www.youtube.com/watch?v=onqOgyTXtow",
         "notesURL": "<a href=\"https://www.youtube.com/watch?v=up0gCEo08BI\" target=\"_blank\">Songs of the Suffragists</a><br>\n<a href=\"https://static1.squarespace.com/static/5b844d68aa49a17b4e07f59a/t/5c3287cc575d1f6be2897b8d/1546815437668/Jubilation+sing-a-long.pdf\" target=\"_blank\">Suffrage Singalong</a>",
         "notes2URL": "https://static1.squarespace.com/static/5b844d68aa49a17b4e07f59a/t/5c3287cc575d1f6be2897b8d/1546815437668/Jubilation+sing-a-long.pdf",
