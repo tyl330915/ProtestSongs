@@ -2413,6 +2413,18 @@ const songs = [{
         "notesURL": "<a href=\"https://genius.com/Rebel-diaz-which-side-are-you-on-remix-lyrics\" target=\"_blank\">Background</a><br>See also versions by Ani Di Franco and Rebel Diaz",
         "image": "https://i.discogs.com/ORuJqbcCiNQD6j_9GaYI-j6s1UTvCM1PZ1RO3wUDyvE/rs:fit/g:sm/q:90/h:341/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1MzYz/MDItMTU0NDI5NTY4/OS04NTc2LmpwZWc.jpeg"
     },
+    {
+        "_id": "60eeewfweweqwewqqwq666c1c253-cb-f5b",
+        "title": "WAP",
+        "artist": "Cardi B / Megan Thee Stallion",
+        "year": "2020",
+        "theme": "Sexuality",
+        "lyricsURL": "https://genius.com/Cardi-b-wap-lyrics",
+        "videoURL": "https://youtu.be/hsm4poTWjMs",
+        "notesURL": "",
+        "image": "https://images.hola.com/us/images/0260-102a3bd2bc13-ec613c70cec1-1000/horizontal-800/cardi-b-and-megan-thee-stallion-s-song-wap-is-one-of-the-most-successful-collaborations-in-music-history.png"
+    },
+
 
 
 
