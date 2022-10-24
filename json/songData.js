@@ -7,7 +7,7 @@ const songs = [{
         "lyricsURL": "https://www.negrospirituals.com/songs/run_mary_run.htm",
         "videoURL": "https://vimeo.com/61112888",
         "notesURL": "",
-        "image": "https://img.discogs.com/kgYQiAe9kmKiPZJfqAOmCcT7VOs=/fit-in/300x300/filters:strip_icc():format(webp):mode_rgb():quality(40)/discogs-images/R-6946348-1430133471-9612.jpeg.jpg"
+        "image": "https://d10p6pkj5na3og.cloudfront.net/uvaarts/Assets/Images/RUN-MARY-RUN-credit-Malia-Dinko-Photography-(16)-2-jpg/RUN-MARY-RUN-credit-Malia-Dinko-Photography-(16)-2x2000.jpg"
     },
     {
         "_id": "60ed8d670a0fac1c253cbf47",
