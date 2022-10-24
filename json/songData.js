@@ -2428,7 +2428,7 @@ const songs = [{
         "title": "Alice's Restaurant Massacree",
         "artist": "Arlo Guthrie",
         "year": "1967",
-        "theme": "War",
+        "theme": "War/Vietnam",
         "lyricsURL": "https://genius.com/2519068",
         "videoURL": "https://youtu.be/m57gzA2JCcM",
         "notesURL": "",
