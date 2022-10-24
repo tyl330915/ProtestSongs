@@ -2432,7 +2432,7 @@ const songs = [{
         "lyricsURL": "https://genius.com/2519068",
         "videoURL": "https://youtu.be/m57gzA2JCcM",
         "notesURL": "",
-        "image": "https://en.wikipedia.org/wiki/Alice%27s_Restaurant_(album)#/media/File:Arlo_Guthrie_-_Alice's_Restaurant.jpg"
+        "image": "https://en.wikipedia.org/wiki/File:Arlo_Guthrie_-_Alice%27s_Restaurant.jpg#/media/File:Arlo_Guthrie_-_Alice's_Restaurant.jpg"
     },
 
 
