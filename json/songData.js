@@ -116,7 +116,7 @@ const songs = [{
         "_id": "60eeed5c0a0fac1c253cbfd5",
         "title": "Into My Arms",
         "artist": "Nick Cave",
-        "year": "1977",
+        "year": "1997",
         "theme": "Religion",
         "lyricsURL": "https://genius.com/Nick-cave-and-the-bad-seeds-into-my-arms-lyrics",
         "videoURL": "https://youtu.be/FG0-cncMpt8",
