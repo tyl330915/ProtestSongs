@@ -2457,7 +2457,17 @@ const songs = [{
         "notesURL": "",
         "image": "https://k-zap.org/wp-content/uploads/2019/04/RandyNewman.jpg"
     },
-
+    {
+        "_id": "60ewer4434t33t2hrhrwsf4b",
+        "title": "The Loophole",
+        "artist": "Garfunkle and Oates",
+        "year": "2013",
+        "theme": "Religion/Sexuality",
+        "lyricsURL": "https://genius.com/Garfunkel-and-oates-the-loophole-lyrics",
+        "videoURL": "https://youtu.be/j8ZF_R_j0OY",
+        "notesURL": "",
+        "image": "https://t2.genius.com/unsafe/655x655/https%3A%2F%2Fimages.genius.com%2Fb3aa1bb66cad500fe30f0436db4824ae.325x325x1.jpg"
+    },
 
 
 ];
