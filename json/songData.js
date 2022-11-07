@@ -103,16 +103,6 @@ const songs = [{
         "notesURL": "",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gil_Scott_Heron_%2855208414%29.jpeg"
     }, {
-        "_id": "60eeed5c0a0fac1c253cbfc8",
-        "title": "God's Song",
-        "artist": "Randy Newman",
-        "year": "1972",
-        "theme": "Religion",
-        "lyricsURL": "https://genius.com/Randy-newman-gods-song-thats-why-i-love-mankind-lyrics",
-        "videoURL": "https://youtu.be/Eiu8yu1nd8I",
-        "notesURL": "",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TV_programma_Music_All_Inn_zanger_Randy_Newman_in_actie%2C_Bestanddeelnr_927-8127.jpg"
-    }, {
         "_id": "60eeed5c0a0fac1c253cbfd5",
         "title": "Into My Arms",
         "artist": "Nick Cave",
