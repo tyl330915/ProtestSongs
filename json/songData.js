@@ -2445,6 +2445,18 @@ const songs = [{
         "notesURL": "",
         "image": "https://i.scdn.co/image/ab67616d00001e02c697f1f2840eada54a8b800a"
     },
+    {
+        "_id": "60ewer4rwtttrgegrrtwwbf4b",
+        "title": "Letting Go of God",
+        "artist": "Julia Sweeney and Jill Sobule",
+        "year": "2008",
+        "theme": "Religion",
+        "lyricsURL": "https://genius.com/Jill-sobule-letting-go-of-god-lyrics",
+        "videoURL": "https://www.youtube.com/watch?v=SJKCofjjoJI",
+        "notesURL": "",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51UTikAYvWL._AC_UL600_SR600,600_.jpg"
+    },
+
 
 
 ];
