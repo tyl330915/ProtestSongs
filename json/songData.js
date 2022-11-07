@@ -2434,8 +2434,17 @@ const songs = [{
         "notesURL": "",
         "image": "https://wmnf.s3.amazonaws.com/wp-content/uploads/2016/11/alices-restaurant.jpg"
     },
-
-
+    {
+        "_id": "60ewer4rwttttwwbf4b",
+        "title": "Athiests Have No Songs",
+        "artist": "Steve Martin",
+        "year": "2011",
+        "theme": "Religion",
+        "lyricsURL": "https://genius.com/Steve-martin-and-the-steep-canyon-rangers-atheists-dont-have-no-songs-lyrics",
+        "videoURL": "https://youtu.be/xmwAD7nHqaY",
+        "notesURL": "",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c697f1f2840eada54a8b800a"
+    },
 
 
 ];
