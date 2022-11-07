@@ -2462,7 +2462,7 @@ const songs = [{
         "title": "The Loophole",
         "artist": "Garfunkle and Oates",
         "year": "2013",
-        "theme": "Religion/Sexuality",
+        "theme": "Sexuality/Religion",
         "lyricsURL": "https://genius.com/Garfunkel-and-oates-the-loophole-lyrics",
         "videoURL": "https://youtu.be/j8ZF_R_j0OY",
         "notesURL": "",
