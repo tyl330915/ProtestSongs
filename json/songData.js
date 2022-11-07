@@ -2453,7 +2453,7 @@ const songs = [{
         "year": "1972",
         "theme": "Religion",
         "lyricsURL": "https://genius.com/Randy-newman-gods-song-thats-why-i-love-mankind-lyrics",
-        "videoURL": "https://youtu.be/C0TvfqmWf4M",
+        "videoURL": "https://youtu.be/Eiu8yu1nd8I",
         "notesURL": "",
         "image": "https://k-zap.org/wp-content/uploads/2019/04/RandyNewman.jpg"
     },
