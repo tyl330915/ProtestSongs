@@ -2476,7 +2476,7 @@ const songs = [{
         "theme": "Religion",
         "lyricsURL": "https://genius.com/23124926",
         "videoURL": "https://youtu.be/SJUhlRoBL8M",
-        "notesURL": "",
+        "notesURL": "<a href=\"https://www.bbc.com/news/entertainment-arts-30143250\" target=\"_blank\">Song popular at funerals</a>",
         "image": "https://pyxis.nymag.com/v1/imgs/9bf/083/12d816b3157f29c1ba1a9759907f727ef1-02-life-of-brian.rsocial.w1200.jpg"
     },
 
