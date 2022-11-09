@@ -2468,6 +2468,17 @@ const songs = [{
         "notesURL": "",
         "image": "https://t2.genius.com/unsafe/655x655/https%3A%2F%2Fimages.genius.com%2Fb3aa1bb66cad500fe30f0436db4824ae.325x325x1.jpg"
     },
+    {
+        "_id": "60ewer44rrrregddddddhrhrwsf4b",
+        "title": "Always Lokk on the Bright Side of Life",
+        "artist": "Eric Idle (Monty Python)",
+        "year": "1979",
+        "theme": "Religion",
+        "lyricsURL": "https://genius.com/23124926",
+        "videoURL": "https://youtu.be/SJUhlRoBL8M",
+        "notesURL": "",
+        "image": "https://pyxis.nymag.com/v1/imgs/9bf/083/12d816b3157f29c1ba1a9759907f727ef1-02-life-of-brian.rsocial.w1200.jpg"
+    },
 
 
 ];
