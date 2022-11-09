@@ -2490,6 +2490,17 @@ const songs = [{
         "notesURL": "",
         "image": "https://www.rhino.com/sites/g/files/g2000012691/files/styles/article_image/public/2022-09/1977_77_Talking%20Heads_Jimmy%20DeSana%20copy.jpg?itok=cyV6C65Z"
     },
+    {
+        "_id": "60ewsdadaa40540-y04rwsf4b",
+        "title": "Where Have All The Flowers Gone?",
+        "artist": "Pete Seegar",
+        "year": "1962",
+        "theme": "Environment",
+        "lyricsURL": "https://genius.com/Peter-paul-and-mary-where-have-all-the-flowers-gone-lyrics",
+        "videoURL": "https://youtu.be/ZgXNVA9ngx8",
+        "notesURL": "",
+        "image": "https://media1.fdncms.com/chronogram/imager/u/original/2401990/1483312713-abc_wn_mary_090917_mn.jpg"
+    },
 
 
 ];
