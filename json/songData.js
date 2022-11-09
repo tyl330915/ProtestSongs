@@ -2470,7 +2470,7 @@ const songs = [{
     },
     {
         "_id": "60ewer44rrrregddddddhrhrwsf4b",
-        "title": "Always Lokk on the Bright Side of Life",
+        "title": "Always Look on the Bright Side of Life",
         "artist": "Eric Idle (Monty Python)",
         "year": "1979",
         "theme": "Religion",
@@ -2478,6 +2478,17 @@ const songs = [{
         "videoURL": "https://youtu.be/SJUhlRoBL8M",
         "notesURL": "<a href=\"https://www.bbc.com/news/entertainment-arts-30143250\" target=\"_blank\">Song popular at funerals</a>",
         "image": "https://pyxis.nymag.com/v1/imgs/9bf/083/12d816b3157f29c1ba1a9759907f727ef1-02-life-of-brian.rsocial.w1200.jpg"
+    },
+    {
+        "_id": "60ewsdadaadaaawehrwsf4b",
+        "title": "(Nothing But) Flowers",
+        "artist": "Talking Heads",
+        "year": "1988",
+        "theme": "Environment",
+        "lyricsURL": "https://genius.com/Talking-heads-nothing-but-flowers-lyrics",
+        "videoURL": "https://youtu.be/2twY8YQYDBE",
+        "notesURL": "",
+        "image": "https://www.rhino.com/sites/g/files/g2000012691/files/styles/article_image/public/2022-09/1977_77_Talking%20Heads_Jimmy%20DeSana%20copy.jpg?itok=cyV6C65Z"
     },
 
 
