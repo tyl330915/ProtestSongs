@@ -2501,6 +2501,16 @@ const songs = [{
         "notesURL": "",
         "image": "https://media1.fdncms.com/chronogram/imager/u/original/2401990/1483312713-abc_wn_mary_090917_mn.jpg"
     },
-
+    {
+        "_id": "60ewsdadaa40trthrth540-y04rwsf4b",
+        "title": "Where Do the Children Play?",
+        "artist": "Cat Stevens",
+        "year": "1970",
+        "theme": "Environment",
+        "lyricsURL": "https://genius.com/Cat-stevens-where-do-the-children-play-lyrics",
+        "videoURL": "https://youtu.be/nBCJhNiKhFE",
+        "notesURL": "",
+        "image": "https://catstevens.com/wp-content/uploads/2014/06/6a20aa31d426ecae78ecef28e51f54b4-1.jpg"
+    },
 
 ];
