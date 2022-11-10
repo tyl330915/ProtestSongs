@@ -815,7 +815,7 @@ const songs = [{
         "image": "https://www.queermusicheritage.com/MWFM/mwfm-big.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf91",
-        "title": "What Have they done to the Rain?",
+        "title": "What Have They Done to the Rain?",
         "artist": "Malvina Reynolds",
         "year": "1963",
         "theme": "Environment",
