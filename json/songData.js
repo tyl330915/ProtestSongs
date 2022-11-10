@@ -635,12 +635,12 @@ const songs = [{
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bob_Marley_emancipated_from_mental_slavery_2.jpg"
     }, {
         "_id": "60eeed5c0a0fac1c253cbf74",
-        "title": "The Great Dust Storm",
+        "title": "Dusty Old Dust (So Long, It's Been Good to Know You)",
         "artist": "Woody Guthrie",
         "year": "1935",
         "theme": "Environment",
-        "lyricsURL": "http://www.protestsonglyrics.net/Environmental_Songs/Great-Dust-Storm.phtml",
-        "videoURL": "https://youtu.be/vvI7BmuUBXU",
+        "lyricsURL": "https://genius.com/Woody-guthrie-dusty-old-dust-so-long-its-been-good-to-know-yuh-lyrics",
+        "videoURL": "https://youtu.be/cudNm4r9NKo",
         "notesURL": "",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Woody_Guthrie_2.jpg"
     }, {
