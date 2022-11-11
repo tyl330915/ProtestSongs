@@ -2512,5 +2512,16 @@ const songs = [{
         "notesURL": "",
         "image": "https://catstevens.com/wp-content/uploads/2014/06/6a20aa31d426ecae78ecef28e51f54b4-1.jpg"
     },
+    {
+        "_id": "rwrrwe4ty40trthrth540-y04rwsf4b",
+        "title": "People Have the Power",
+        "artist": "Patti Smith",
+        "year": "1988",
+        "theme": "General",
+        "lyricsURL": "https://genius.com/Patti-smith-people-have-the-power-lyrics",
+        "videoURL": "https://youtu.be/JAUrab7mgmQ",
+        "notesURL": "",
+        "image": "https://i.discogs.com/W4Bql8_UisSgiGk78d8PBGDf9Yx0Dl5pl6LX6vQRVHM/rs:fit/g:sm/q:90/h:528/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU0/ODctMTE5NzQ5MjMy/MC5qcGVn.jpeg"
+    },
 
 ];
