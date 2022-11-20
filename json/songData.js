@@ -2522,6 +2522,17 @@ const songs = [{
         "videoURL": "https://youtu.be/JAUrab7mgmQ",
         "notesURL": "",
         "image": "https://i.discogs.com/W4Bql8_UisSgiGk78d8PBGDf9Yx0Dl5pl6LX6vQRVHM/rs:fit/g:sm/q:90/h:528/w:525/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTU0/ODctMTE5NzQ5MjMy/MC5qcGVn.jpeg"
+    }, {
+        "_id": "60rrrrrd5c0a0fac1c253cbf9e",
+        "title": "Pumped Up Kicks",
+        "artist": "Foster the People",
+        "year": "2011",
+        "theme": "Gun Control",
+        "lyricsURL": "https://genius.com/Foster-the-people-pumped-up-kicks-lyrics",
+        "videoURL": "https://youtu.be/SDTZ7iX4vTQ",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://images.genius.com/fd2f2e740a8fa6025907648a31abf43f.1000x1000x1.png"
     },
 
 ];
