@@ -1045,16 +1045,6 @@ const songs = [{
         "notesURL": "",
         "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/04/Tubes-GettyImages-102677143.jpg"
     }, {
-        "_id": "60eeed5c0a0fac1c253cbfda",
-        "title": "White Man In Hammersmith Palais",
-        "artist": "The Clash",
-        "year": "1978",
-        "theme": "Revolution",
-        "lyricsURL": "https://genius.com/The-clash-white-man-in-hammersmith-palais-lyrics",
-        "videoURL": "https://youtu.be/96UtZPLiT90",
-        "notesURL": "",
-        "image": "https://classicalbumsundays.com/wp-content/uploads/2014/11/The-Clash1-700x465.jpeg"
-    }, {
         "_id": "60eeed5c0a0fac1c253cbfe3",
         "title": "Tainted Love",
         "artist": "Soft Cell",
