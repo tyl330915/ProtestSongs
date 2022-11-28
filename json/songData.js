@@ -2534,5 +2534,28 @@ const songs = [{
         "notes2URL": "",
         "image": "https://images.genius.com/fd2f2e740a8fa6025907648a31abf43f.1000x1000x1.png"
     },
+    {
+        "_id": "60rrrrrd5c0a0fac1c8967848cbf9e",
+        "title": "Sail Away",
+        "artist": "Randy Newman",
+        "year": "1972",
+        "theme": "Race/Slavery",
+        "lyricsURL": "https://genius.com/Randy-newman-sail-away-lyrics",
+        "videoURL": "https://youtu.be/JI_7AoPjyoA",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TV_programma_Music_All_Inn_zanger_Randy_Newman_in_actie%2C_Bestanddeelnr_927-8127.jpg"
+    }, {
+        "_id": "75638rrrrrd5c0a0fac1c8967848cbf9e",
+        "title": "London Calling",
+        "artist": "The Clash",
+        "year": "1979",
+        "theme": "Climate Change",
+        "lyricsURL": "https://genius.com/The-clash-london-calling-lyrics",
+        "videoURL": "https://youtu.be/EfK-WX2pa8c",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/00/TheClashLondonCallingalbumcover.jpg"
+    },
 
 ];
