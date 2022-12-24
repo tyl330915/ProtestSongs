@@ -2547,5 +2547,129 @@ const songs = [{
         "notes2URL": "",
         "image": "https://upload.wikimedia.org/wikipedia/en/0/00/TheClashLondonCallingalbumcover.jpg"
     },
+    {
+        "_id": "75638rrrrrd5c0a0fac1cthtthrhbf9e",
+        "title": "Troubled Times",
+        "artist": "Green Day",
+        "year": "2016",
+        "theme": "Capitalism",
+        "lyricsURL": "https://genius.com/Green-day-troubled-times-lyrics",
+        "videoURL": "https://youtu.be/9cVJr3eQfXc",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Green_Day_Venezuela.jpg"
+    },
+    {
+        "_id": "75ffssffsrrrrd5c0a0fac1cthtthrhbf9e",
+        "title": "Bang Bang",
+        "artist": "Green Day",
+        "year": "2016",
+        "theme": "School Shootings",
+        "lyricsURL": "https://genius.com/Green-day-bang-bang-lyrics",
+        "videoURL": "https://youtu.be/mg5Bp_Gzs0s",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Green_Day_Venezuela.jpg"
+    },
+
+    {
+        "_id": "75ffssffgggdreac1cthtthrhbf9e",
+        "title": "Not a Pretty Girl",
+        "artist": "Ani DiFranco",
+        "year": "1995",
+        "theme": "Gender",
+        "lyricsURL": "https://genius.com/Ani-difranco-not-a-pretty-girl-lyrics",
+        "videoURL": "https://youtu.be/Ry8b2v-hl_U",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ani_Difranco_Ancienne_Belgique.jpg"
+    },
+    {
+        "_id": "75ffssffgggdrefhhffgac1cthtthrhbf9e",
+        "title": "How the World Works",
+        "artist": "Bo Burnham",
+        "year": "2021",
+        "theme": "Capitalism",
+        "lyricsURL": "https://genius.com/Bo-burnham-how-the-world-works-lyrics",
+        "videoURL": "https://youtu.be/oDQXFNWuZj8",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://pyxis.nymag.com/v1/imgs/4ee/df1/4ecdffc5d4f139887e8c5c533bf4359b2b-06-burnham.2x.rhorizontal.w700.jpg"
+    },
+
+    {
+        "_id": "75ffssffgggdrfsffffsefhhffgac1cthtthrhbf9e",
+        "title": "That Funny Feeling",
+        "artist": "Bo Burnham",
+        "year": "2021",
+        "theme": "Capitalism/COVID",
+        "lyricsURL": "https://genius.com/Bo-burnham-that-funny-feeling-lyrics",
+        "videoURL": "https://youtu.be/ObOqq1knVxs",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://pyxis.nymag.com/v1/imgs/4ee/df1/4ecdffc5d4f139887e8c5c533bf4359b2b-06-burnham.2x.rhorizontal.w700.jpg"
+    },
+    {
+        "_id": "75ffssffgggefu0u3ijrug03gug3grog3grj3rithtthrhbf9e",
+        "title": "Napalm Sticks to Kids",
+        "artist": "Covered Wagon Musicians",
+        "year": "1972",
+        "theme": "War/Vietnam",
+        "lyricsURL": "https://genius.com/Covered-wagon-musicians-napalm-sticks-to-kids-annotated",
+        "videoURL": "https://youtu.be/9tUPO_fPyNE",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://i.imgflip.com/1z3kpj.jpg"
+    },
+    {
+        "_id": "75ffsssdseeeeu3ijrug03gug3grog3grj3rithtthrhbf9e",
+        "title": "Between the Bars",
+        "artist": "Elliott Smith",
+        "year": "1997",
+        "theme": "Alcohol",
+        "lyricsURL": "https://genius.com/Elliott-smith-between-the-bars-lyrics",
+        "videoURL": "https://youtu.be/5x8ue3-np2c",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk5MDI0NjA5NF5BMl5BanBnXkFtZTgwNTY3ODAxNTM@._V1_.jpg"
+    },
+    {
+        "_id": "75ffsssdseeeeu3ijrug03gug3gr54456rhbf9e",
+        "title": "Beds Are Burning",
+        "artist": "Midnight Oil",
+        "year": "1987",
+        "theme": "Climate Change",
+        "lyricsURL": "https://genius.com/Midnight-oil-beds-are-burning-lyrics",
+        "videoURL": "https://www.youtube.com/watch?v=tKzJYSabSW0",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTU1NjFiZWUtZDEwMC00YTEyLTkzOWItOTY2MmNlZjU4ODhhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg"
+    },
+    {
+        "_id": "ggdrrdseeeeu3ijrug03gug3gr54456rhbf9e",
+        "title": "Testify",
+        "artist": "Rage Against the Machine",
+        "year": "1999",
+        "theme": "Capitalism",
+        "lyricsURL": "https://genius.com/Rage-against-the-machine-testify-lyrics",
+        "videoURL": "https://youtu.be/Q3dvbM6Pias",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Rage_Against_The_Machine.jpg"
+    },
+
+    {
+        "_id": "ggdrrdseeeeu3ijrug034646546544456rhbf9e",
+        "title": "April 29, 1992 (Miami)",
+        "artist": "Sublime",
+        "year": "1996",
+        "theme": "Violence",
+        "lyricsURL": "https://genius.com/Sublime-april-29-1992-miami-lyrics",
+        "videoURL": "https://youtu.be/4ttchToDa7Y",
+        "notesURL": "",
+        "notes2URL": "",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/Bud_Gaugh%2C_Eric_Wilson%2C_and_Brad_Nowell_of_Sublime_%281996%29.jpg"
+    },
+
 
 ];
